@@ -416,7 +416,7 @@ img {
   right: 10px;
   width: calc(100% - 20px);
   height: calc(100% - 20px);
-  background-color: rgba(0, 0, 0, 0.5);
+  /* background-color: rgba(0, 0, 0, 0.5); */
   z-index: 1;
   border-radius: 12px;
   pointer-events: none;
